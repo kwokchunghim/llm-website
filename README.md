@@ -25,31 +25,34 @@ This project is a **personal portfolio website with a twist**: instead of a stat
 | Language    | Python 3.10+                     |
 
 ---
-## 🗂️ Project Structure
 
+## 📄 Repo Structure
+
+```
 llm-website/
-├── app/                      # Core logic and components
-│   ├── config.py             # Central config (paths, keys, constants)
-│   ├── embedder.py           # Embedding model setup (BGE-small)
-│   ├── retriever.py          # FAISS index + chunk retrieval
-│   ├── llm.py                # Groq API interaction
-│   ├── prompts.py            # Prompt templates and builders
-│   └── ui.py                 # Gradio interface builder
+├── app/                  → Core logic and components
+│   ├── config.py         → Central config (paths, keys, constants)
+│   ├── embedder.py       → Embedding model setup (BGE-small)
+│   ├── retriever.py      → FAISS index + chunk retrieval
+│   ├── llm.py            → Groq API interaction
+│   ├── prompts.py        → Prompt templates and builders
+│   └── ui.py             → Gradio interface builder
 │
-├── entrypoints/              # CLI + app launchers
-│   ├── gradio_app.py         # Launch Gradio UI
-│   ├── test_llm.py           # Manual RAG pipeline test
-│   └── test_retreiver.py     # Manual retriever test
+├── entrypoints/          → CLI + app launchers
+│   ├── gradio_app.py     → Launch Gradio UI
+│   ├── test_llm.py       → Manual RAG pipeline test
+│   └── test_retriever.py → Manual retriever test
 │
-├── data/                     # Flattened JSON CV data
-│   └── cv_chunks_flattened.json # You need to add the file here
+├── data/                 
+│   └── cv_chunks_flattened.json  → Flattened JSON CV data
 │
-├── tests/                    # (Optional) Unit tests
+├── tests/                → Unit tests (optional)
 │
-├── .env                      # Environment variables (excluded from Git)
+├── .env                  → Environment variables (excluded from Git)
 ├── .gitignore
-├── Makefile                  # Developer commands (run, test, build)
-├── requirements.txt          
-├── requirements-dev.txt      # Requirements for development 
-├── Dockerfile                # Build the Docker image
-└── README.md                 # Project overview (this file)
+├── Makefile              → Developer commands (run, test, build)
+├── requirements.txt      
+├── requirements-dev.txt  → Dev-only dependencies
+├── Dockerfile            → Build the Docker image
+└── README.md             → Project overview (this file)
+```
