@@ -1,0 +1,112 @@
+[
+  {
+    "id": "b42869b8-8323-4143-92d2-200423ae6618",
+    "section": "Experience",
+    "content": "[Section: Experience]\nTitle: Machine Learning Engineer\nOrganization: Trainline\nLocation: London, United Kingdom\nDates: June 2024 - Present\nContent: Co-led research, development, and deployment of a real-time personalisation agent using Contextual Bandits and Reinforcement Learning (RL), increasing conversion and revenue through bespoke content delivery and customised product recommendations throughout the customer purchasing journey."
+  },
+  {
+    "id": "eb7330f1-ae6d-4ae1-8223-5d384fdd96d7",
+    "section": "Experience",
+    "content": "[Section: Experience]\nTitle: Machine Learning Engineer\nOrganization: Trainline\nLocation: London, United Kingdom\nDates: June 2024 - Present\nContent: Built end-to-end CLTV prediction pipelines based on adapted research models, enhancing a marketing campaign for early customer churn prevention and driving a statistically significant uplift in customer retention."
+  },
+  {
+    "id": "133c5faf-7e36-480a-9eeb-13361933b8bb",
+    "section": "Experience",
+    "content": "[Section: Experience]\nTitle: Machine Learning Engineer\nOrganization: Trainline\nLocation: London, United Kingdom\nDates: June 2024 - Present\nContent: Led a Trainline Hackathon initiative, ideating and prototyping a RAG-based LLM assistant leveraging Databricks LLM, LangChain, and Gradio, streamlining onboarding for incoming ML Engineers."
+  },
+  {
+    "id": "c85e69ae-3f3e-466c-be41-fb9bcf0f3c26",
+    "section": "Experience",
+    "content": "[Section: Experience]\nTitle: Machine Learning Engineer\nOrganization: Trainline\nLocation: London, United Kingdom\nDates: June 2024 - Present\nContent: Ensured reliability of production ML pipelines by resolving failures across AWS EMR, MLFlow, and Jenkins, leveraging Airflow and New Relic for monitoring and orchestration."
+  },
+  {
+    "id": "9dcbf1f3-7359-44bd-98d6-5a0be2e8c8a6",
+    "section": "Experience",
+    "content": "[Section: Experience]\nTitle: Machine Learning Engineer\nOrganization: Trainline\nLocation: London, United Kingdom\nDates: June 2024 - Present\nContent: Deployed 3 PoCs on Databricks and delivered technical assessments and presentations, driving workflow efficiency improvements and influencing tooling strategy across the Data team."
+  },
+  {
+    "id": "4e269f69-d333-43eb-b9a3-af6813cf5e6c",
+    "section": "Experience",
+    "content": "[Section: Experience]\nTitle: Machine Learning Engineer (Consultant)\nOrganization: Guidehouse\nLocation: London, United Kingdom\nDates: Aug 2023 - May 2024\nContent: Developed deep autoencoders and time-series models for gas pressure anomaly detection, enabling early identification of methane leaks across a national gas distribution network."
+  },
+  {
+    "id": "c481d2e5-612f-49b8-a77a-ea084197032d",
+    "section": "Experience",
+    "content": "[Section: Experience]\nTitle: AI Research Assistant\nOrganization: University of Hong Kong - Dept of Medicine\nLocation: Hong Kong, Hong Kong SAR\nDates: Aug 2021 - May 2022\nContent: Fine-tuned ResNet-18 on proprietary clinical imaging data to automate fracture classification, contributing to a production-ready medical imaging model."
+  },
+  {
+    "id": "b84c7e19-b207-4a17-823d-883a3607023e",
+    "section": "Skills",
+    "content": "[Section: Skills]\nContent: Programming: Python, PySpark, SQL, OOP, R, Matlab"
+  },
+  {
+    "id": "be55f410-cf16-41d0-8820-c6d34a87d364",
+    "section": "Skills",
+    "content": "[Section: Skills]\nContent: AI/ML Frameworks: PyTorch, HuggingFace, Scikit-Learn, CatBoost, XGBoost, Vowpal Wabbit"
+  },
+  {
+    "id": "7ff7d007-9deb-4cb5-9e75-dae8a28e442f",
+    "section": "Skills",
+    "content": "[Section: Skills]\nContent: LLM Stack: Multimodal LLM, Fine-tuning, LoRA, RAG, LangChain, DataParallel"
+  },
+  {
+    "id": "03dc1378-8758-420f-80de-d8fb9d6cb3eb",
+    "section": "Skills",
+    "content": "[Section: Skills]\nContent: Data Platforms: Databricks, AWS Athena, AWS EMR, AWS S3, Starburst Galaxy"
+  },
+  {
+    "id": "59af9d36-8759-410c-a06b-ee91f5449baf",
+    "section": "Skills",
+    "content": "[Section: Skills]\nContent: DevOps/MLOps: MLFlow, Airflow, Git, Docker, Jenkins, New Relic, Pex, Make, AWS ECS"
+  },
+  {
+    "id": "c0cea503-46a8-407a-b148-9e4cf0b6b107",
+    "section": "Skills",
+    "content": "[Section: Skills]\nContent: Python Libraries: Pytest, Pydantic, NumPy, SciPy, Statsmodels, Pandas, Matplotlib, SHAP, Seaborn"
+  },
+  {
+    "id": "786e1cd8-b807-45ff-a706-36cd407a7492",
+    "section": "Projects",
+    "content": "[Section: Projects]\nContent: Developed GIT-ARRG-X, a vision-language model using Generative Image Transformers (GIT) for chest X-ray report generation, as part of the X-Raydar Project, an NHS-backed initiative led by Prof. Giovanni Montana, improving the clinical quality and coherence of AI-generated medical reports."
+  },
+  {
+    "id": "3f463eee-807f-417b-8c20-486d4cf28686",
+    "section": "Education",
+    "content": "[Section: Education]\nContent: MSc Statistics, University of Warwick (2022 - 2023): Distinction, Winton Dissertation Prize Winner. Dissertation: 'Automatic Radiological Report Generation of Chest Radiographs using Deep Learning'"
+  },
+  {
+    "id": "673303ad-5643-4e9a-a292-6d44c925447c",
+    "section": "Education",
+    "content": "[Section: Education]\nContent: BSc Mathematics (Honours), The Chinese University of Hong Kong (2016 - 2020): Enrichment Mathematics Scholarship Recipient - Top 30 students in Hong Kong admitted to the programme."
+  },
+  {
+    "id": "ddf0ad58-19aa-4cc0-90fe-488b220bb1a5",
+    "section": "Contact",
+    "content": "[Section: Contact]\nContent: Name: Tony C.H. Kwok"
+  },
+  {
+    "id": "ce772eff-dfe9-4f7f-b909-d2316525e849",
+    "section": "Contact",
+    "content": "[Section: Contact]\nContent: Email: chkwok730@gmail.com"
+  },
+  {
+    "id": "d7d5dc35-d19a-4298-bb52-37272b530c15",
+    "section": "Contact",
+    "content": "[Section: Contact]\nContent: Phone: +44 (0)7788937358"
+  },
+  {
+    "id": "95bb5f6b-1e77-42cf-ac75-188a18b54bb4",
+    "section": "Contact",
+    "content": "[Section: Contact]\nContent: Location: London, United Kingdom"
+  },
+  {
+    "id": "a5bdf19a-7206-4160-be55-27a1a37a3dff",
+    "section": "Contact",
+    "content": "[Section: Contact]\nContent: Linkedin: https://www.linkedin.com/in/tonykwokch/"
+  },
+  {
+    "id": "80819a22-b684-4d33-8e59-529a7a555586",
+    "section": "Contact",
+    "content": "[Section: Contact]\nContent: Github: https://github.com/kwokchunghim"
+  }
+]
